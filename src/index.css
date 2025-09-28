@@ -1,0 +1,16 @@
+:root {
+  --fundo-geral: #06151a;
+  --fundo-componentes: #212121;
+  --texto-secundario: #33353f;
+  --branco: #ffffff;
+
+  --cor-primaria: #17d9b1;
+  --gradiente-banner: linear-gradient(180deg, #17e4b9 0%, #091d24 100%);
+}
+
+* {
+  font-family: "Work Sans", sans-serif;
+}
+body {
+  background-color: #06151a;
+}
