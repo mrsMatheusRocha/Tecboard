@@ -1,7 +1,6 @@
 # Tecboard
 
 **Tecboard** é uma plataforma web moderna para organização de tarefas, escrita de notas e colaboração, desenvolvida com React.  
-Acesse agora: [tecboard-fawn.vercel.app](https://tecboard-fawn.vercel.app/)
 
 ---
 
